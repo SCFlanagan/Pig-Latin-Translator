@@ -1,0 +1,30 @@
+* {
+	border-width: 0.5em;
+
+}
+
+#input {
+	width: 25em;
+}
+
+body {
+	text-align: center;
+	font-family: "Arial Black";
+	background-image: url("http://cbien.co/wp-content/uploads/2016/09/modern-concept-white-marble-background-marble-iphone-wallpaper-free-marble-wallpaper-7.jpg")
+}
+
+img {
+	margin-top: 3em;
+	height: 15.8em;
+	width: 15em;
+}
+
+p {
+
+	display: inline-block;
+	padding: 0em 5em 0em 5em;
+}
+
+input {
+	margin: 1em 1em 1em 1em;
+}
